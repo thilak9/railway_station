@@ -1,0 +1,27 @@
+h1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
+.lead{
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+section img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+
+.footer{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
